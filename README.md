@@ -27,4 +27,15 @@ and at option 3 please update so that is find that user name at all possible sou
 also improve option 4  , 5 and 6 
 in option 6 update so that is extract information form image , pdf, url , also from face etc
 ```
-# 4. 
+# 4. update 
+
+```
+# Updating the code to improve the features as requested.
+# The following updates will be made:
+# 1. Improve domain information gathering by adding more comprehensive checks and data sources.
+# 2. Enhance subdomain enumeration using external APIs or tools.
+# 3. Implement user information gathering from social media and other sources.
+# 4. Improve IP geolocation and Shodan data retrieval.
+# 5. Enhance data leak checks using external APIs.
+# 6. Extend EXIF data extraction to include PDFs, URLs, and facial recognition.
+```
