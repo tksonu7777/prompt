@@ -53,3 +53,11 @@ Implement a subdomain enumeration tool using a library like Sublist3r for better
 
 please give full updated code 
 ```
+
+
+
+# 6. updte
+```
+please update so that is gather user information and college all information (gther various platfor like insta, facebook , twiter and other  social  media) where  user is login and also college its secreate information like its password , phone number location, the photo and post is posted by user , email id , user is activity , when user is active more. Please make two sub choice in option 3. Gather User Information and the sub choice is " 1 . For user name and 2. Url (Please eneter user account url like insta, facebook , twiter and ther socila media ) "
+please give  full updated  tool code  
+```
