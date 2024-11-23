@@ -39,3 +39,17 @@ in option 6 update so that is extract information form image , pdf, url , also f
 # 5. Enhance data leak checks using external APIs.
 # 6. Extend EXIF data extraction to include PDFs, URLs, and facial recognition.
 ```
+
+
+
+# 5. updated 
+```
+at option 3 update so that is give url where the user name is found give all possible path where the user found 
+search all platform .
+Enhance user information gathering to scrape social media profiles for additional data.
+Generate a function to perform advanced domain information gathering using multiple APIs.
+Implement a subdomain enumeration tool using a library like Sublist3r for better accuracy.
+
+
+please give full updated code 
+```
